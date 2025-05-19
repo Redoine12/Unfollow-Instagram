@@ -9,7 +9,7 @@ This version utilizes the Instagram API for better performance.
 3. Go to Instagram website and log in to your account GO to your instagram profile
 
 5. Open the developer console:
-   - Windows: `Ctrl + Shift + I`
+   - Windows: `Ctrl + Shift + J`
    - Mac OS: `⌘ + ⌥ + I`
    Press the button  ^ Console ^ 
    and Paste the code and you'll see this interface:
