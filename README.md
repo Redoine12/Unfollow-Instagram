@@ -19,25 +19,7 @@ If you do not want to paste the code, write this command
    and past 
 7. Click "RUN" to start scanning
 
-8. After scanning completes, you'll see the results:
-
-    <img src="./assets/results.png" alt="Results screen" />
-
-9. 🤍 Whitelist users by clicking their profile image
-
-10. ✅ Select users to unfollow using the checkboxes
-
-11. ⚙️ Customize script timings via the "Settings" button:
-
-    <img src="./assets/settings.png" alt="Settings screen" />
-
-## 📱 Mobile Usage
-
-For Android users who want to use it on mobile:
-
-1. Download the latest version of [Eruda Android Browser](https://github.com/liriliri/eruda-android/releases/)
-2. Open Instagram web through the Eruda browser
-3. Follow the same steps as desktop (the console will be automatically available when clicking the eruda icon)
+BOOOM 
 
 ## ⚡ Performance Notes
 
