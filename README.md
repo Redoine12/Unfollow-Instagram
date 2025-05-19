@@ -12,7 +12,7 @@ This version utilizes the Instagram API for better performance.
    - Windows: `Ctrl + Shift + J`
    - Mac OS: `⌘ + ⌥ + I`
     
-Paste the code and you'll see this interface:
+Paste the code :
 If you do not want to paste the code, write this command
 
               allow pasting
