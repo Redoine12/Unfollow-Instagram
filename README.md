@@ -1,7 +1,7 @@
 # 📱 Instagram Unfollowers
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://github.com/davidarroyo1234/InstagramUnfollowers)
-
+[![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://github.com/Redoine12/Unfollow-Instagram))
+](https://github.com/Redoine12/Unfollow-Instagram)
 A nifty tool that lets you see who doesn't follow you back on Instagram.  
 <u>Browser-based and requires no downloads or installations!</u>
 
@@ -11,7 +11,7 @@ This version utilizes the Instagram API for better performance.
 
 ## 🖥️ Desktop Usage
 
-1. Copy the code from: [InstagramUnfollowers Tool]([https://davidarroyo1234.github.io/InstagramUnfollowers/](https://pastebin.com/iW9VW3Qv))
+1. Copy the code from: [InstagramUnfollowers Tool]([https://davidarroyo1234.github.io/InstagramUnfollowers/](https://pastebin.com/iW9VW3Qv/)
 
 2. Press the COPY button to copy the code.
 
