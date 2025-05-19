@@ -11,11 +11,12 @@ This version utilizes the Instagram API for better performance.
 5. Open the developer console:
    - Windows: `Ctrl + Shift + I`
    - Mac OS: `⌘ + ⌥ + I`
-   Press the button
- Paste the code and you'll see this interface:
+   Press the button  ^ Console ^ 
+   and Paste the code and you'll see this interface:
+If you do not want to paste the code, write this command
 
-    <img src="./assets/initial.png" alt="Initial screen" />
-
+              allow pasting
+   and past 
 7. Click "RUN" to start scanning
 
 8. After scanning completes, you'll see the results:
