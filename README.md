@@ -11,8 +11,8 @@ This version utilizes the Instagram API for better performance.
 5. Open the developer console:
    - Windows: `Ctrl + Shift + J`
    - Mac OS: `⌘ + ⌥ + I`
-   Press the button  ^ Console ^ 
-   and Paste the code and you'll see this interface:
+    
+Paste the code and you'll see this interface:
 If you do not want to paste the code, write this command
 
               allow pasting
