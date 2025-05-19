@@ -4,65 +4,7 @@ This version utilizes the Instagram API for better performance.
 
 ## 🖥️ Desktop Usage
 
-1. Copy the code from: 
-
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8">
-  <title>نسخ الرابط</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f6f6f6;
-      padding: 30px;
-      text-align: center;
-    }
-
-    #linkBox {
-      background: #ffffff;
-      padding: 15px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      display: inline-block;
-      margin-bottom: 15px;
-      font-size: 18px;
-    }
-
-    #copyBtn {
-      background-color: #4CAF50;
-      color: white;
-      border: none;
-      padding: 10px 20px;
-      border-radius: 6px;
-      font-size: 16px;
-      cursor: pointer;
-    }
-
-    #copyBtn:hover {
-      background-color: #45a049;
-    }
-  </style>
-</head>
-<body>
-
-  <h2>رابط الكود</h2>
-
-  <div id="linkBox">
-    <a href="https://pastebin.com/iW9VW3Qv" target="_blank" id="linkText">
-      https://pastebin.com/iW9VW3Qv
-    </a>
-  </div>
-
-  <br>
-  <button id="copyBtn">📋 نسخ الرابط</button>
-
-  <script>
-    document.getElementById("copyBtn").addEventListener("click", function () {
-      const link = document.getElementById("linkText").href;
-      navigator.clipboard.writeText(link).then(() => {
-        alert("✅ تم نسخ الرابط!");
-      }).catch(err =
+1. Copy the code from: https://pastebin.com/iW9VW3Qv
 
 
 3. Go to Instagram website and log in to your account
