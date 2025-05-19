@@ -6,28 +6,27 @@ This version utilizes the Instagram API for better performance.
 
 1. Copy the code from: https://pastebin.com/iW9VW3Qv
 
+3. Go to Instagram website and log in to your account GO to your instagram profile
 
-3. Go to Instagram website and log in to your account
-
-4. Open the developer console:
-   - Windows: `Ctrl + Shift + J`
+5. Open the developer console:
+   - Windows: `Ctrl + Shift + I`
    - Mac OS: `⌘ + ⌥ + I`
-
-5. Paste the code and you'll see this interface:
+   Press the button
+ Paste the code and you'll see this interface:
 
     <img src="./assets/initial.png" alt="Initial screen" />
 
-6. Click "RUN" to start scanning
+7. Click "RUN" to start scanning
 
-7. After scanning completes, you'll see the results:
+8. After scanning completes, you'll see the results:
 
     <img src="./assets/results.png" alt="Results screen" />
 
-8. 🤍 Whitelist users by clicking their profile image
+9. 🤍 Whitelist users by clicking their profile image
 
-9. ✅ Select users to unfollow using the checkboxes
+10. ✅ Select users to unfollow using the checkboxes
 
-10. ⚙️ Customize script timings via the "Settings" button:
+11. ⚙️ Customize script timings via the "Settings" button:
 
     <img src="./assets/settings.png" alt="Settings screen" />
 
