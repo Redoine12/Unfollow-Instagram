@@ -17,6 +17,7 @@ If you do not want to paste the code, write this command
 
               allow pasting
    and past 
+
 7. Click "RUN" to start scanning
 
 BOOOM 
